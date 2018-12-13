@@ -1,13 +1,5 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": “9R3F7Q28U5.com.chethankamath.AdCopy",
-        "paths": [
-          "*"
-        ]
-      }
-    ]
-  }
+    "webcredentials": {
+        "apps": ["9R3F7Q28U5.com.chethankamath.AdCopy"]
+    }
 }
